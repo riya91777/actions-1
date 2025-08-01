@@ -13,6 +13,6 @@ jobs:
             - name: Executing Shell Script
               run: |
                chmod +X ascii-shellt.sh
-               ./ascii-shell.sh
+               /github/workflowsascii-shell.sh
 
               
